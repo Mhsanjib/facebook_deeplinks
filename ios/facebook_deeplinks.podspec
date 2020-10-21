@@ -15,7 +15,7 @@ A flutter plugin to get facebook deeplinks and transferring them to the flutter 
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
-  s.dependency 'FBSDKCoreKit', '5.5.0'
+  s.dependency 'FBSDKCoreKit', '7.1.0'
   s.platform = :ios, '8.0'
 
   # Flutter.framework does not contain a i386 slice. Only x86_64 simulators are supported.
